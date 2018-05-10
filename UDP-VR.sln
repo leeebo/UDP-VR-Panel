@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDP-VR", "UDP-VR\UDP-VR.vcxproj", "{60EE77D3-7E0B-4FBB-8E03-98A00FBEB1B2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TEST-VR-V1.0", "TEST-VR-V1.0\TEST-VR-V1.0.vdproj", "{54BD0E3C-640D-499D-8352-400CF79C626F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60EE77D3-7E0B-4FBB-8E03-98A00FBEB1B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{60EE77D3-7E0B-4FBB-8E03-98A00FBEB1B2}.Debug|Win32.Build.0 = Debug|Win32
+		{60EE77D3-7E0B-4FBB-8E03-98A00FBEB1B2}.Release|Win32.ActiveCfg = Release|Win32
+		{60EE77D3-7E0B-4FBB-8E03-98A00FBEB1B2}.Release|Win32.Build.0 = Release|Win32
+		{54BD0E3C-640D-499D-8352-400CF79C626F}.Debug|Win32.ActiveCfg = Debug
+		{54BD0E3C-640D-499D-8352-400CF79C626F}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
